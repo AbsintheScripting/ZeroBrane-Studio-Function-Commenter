@@ -9,12 +9,15 @@ function test(someParam, someOtherParam)
 end
 ```
 
-you type --- and it automatically generates a function comment like this:
+you type 3x - and it automatically generates a function comment like this:
+
+```lua
 --- test 
 -- 
 -- @param someParam
 -- @param someOtherParam
 -- @return 
+```
 
 # INSTALL:
 Place functioncomment.lua into HOME/.zbstudio/packages or ZBS/packages/

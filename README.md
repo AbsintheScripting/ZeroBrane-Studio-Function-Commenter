@@ -1,7 +1,7 @@
 ### This function commenter is only for ZeroBrane Studio.
 
 # WHAT IS DOES:
-If you have a function like:
+If you have a regular function like this:
 
 ```lua
 function test(someParam, someOtherParam)
@@ -9,7 +9,7 @@ function test(someParam, someOtherParam)
 end
 ```
 
-you type 3x - and it automatically generates a function comment like this:
+you type 3x - above the function and it automatically generates a function comment like this:
 
 ```lua
 --- test 
